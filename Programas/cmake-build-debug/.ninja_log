@@ -1,0 +1,13 @@
+# ninja log v5
+17	1878	7349846261899960	CMakeFiles/Programas.dir/BooleanCell.cpp.obj	e9c9877c484e3b7a
+1	700	7349847056058442	CMakeFiles/Programas.dir/main.cpp.obj	fc82c1897f6dcd86
+30	1884	7349846261969772	CMakeFiles/Programas.dir/Pirata.cpp.obj	17455d46424d723
+1173	1548	7330381278561657	Programas.exe	b34545e2fcfe4bf1
+1	1031	7329163426567503	CMakeFiles/Programas.dir/Automovil.cpp.obj	f29843a0a5241022
+8	1361	7329135311220220	CMakeFiles/Programas.dir/flotantePerzonalizado.cpp.obj	fc9c66eab319ce09
+1	164	7349847551334471	build.ninja	b95fff1bfe42139a
+6	1885	7349846261919905	CMakeFiles/Programas.dir/FloatCell.cpp.obj	e32ac03afc9eb68
+24	1883	7349846261939850	CMakeFiles/Programas.dir/DoubleCell.cpp.obj	3ecebd1b91e09bb4
+11	1881	7349846261919905	CMakeFiles/Programas.dir/IntCell.cpp.obj	c773c68faff2782b
+36	1879	7349846261899960	CMakeFiles/Programas.dir/CharCell.cpp.obj	f4f9381e73862afc
+43	1886	7349846262009675	CMakeFiles/Programas.dir/Yonkou.cpp.obj	f45675fef799cca1

@@ -1,0 +1,24 @@
+# ninja log v5
+7	423	7349850800705361	CMakeFiles/Herencia.dir/Pirata.cpp.obj	9bb2f07140c6760f
+12	426	7349850800715333	CMakeFiles/Herencia.dir/Persona.cpp.obj	1a01a6cb33aaa3a6
+11	790	7349994231755030	CMakeFiles/Herencia.dir/Fruta.cpp.obj	dfe8672d09760b00
+2	422	7350207081070885	build.ninja	b1df40d56e647fb7
+1	1000	7350206792167330	CMakeFiles/Herencia.dir/main.cpp.obj	79896e0a95a0550e
+2143	2730	7350023145864918	Herencia.exe	f8f8d9d347240b57
+1	399	7349852124091192	CMakeFiles/Herencia.dir/Yonkou.cpp.obj	122b65b01e19a5cb
+27	795	7349994231814900	CMakeFiles/Herencia.dir/Haki.cpp.obj	2199121652d6dbb7
+8	763	7350206789806084	CMakeFiles/Herencia.dir/Protagonista.cpp.obj	da2fc28a3c2a43b2
+2	1193	7350018391271885	CMakeFiles/Herencia.dir/ReyDeLosPiratas.cpp.obj	a634b266181a12fd
+0	396	7350207157711350	CMakeFiles/Herencia.dir/Fruta.cpp.obj	dfe8672d09760b00
+7	398	7350207157731287	CMakeFiles/Herencia.dir/Haki.cpp.obj	2199121652d6dbb7
+398	599	7350207159235598	Herencia.exe	39d865197b01a571
+1	1322	7350356386922209	CMakeFiles/Herencia.dir/main.cpp.obj	79896e0a95a0550e
+9	1323	7350356386922209	CMakeFiles/Herencia.dir/Protagonista.cpp.obj	da2fc28a3c2a43b2
+1323	1621	7350356389188771	Herencia.exe	39d865197b01a571
+26	2053	7362041342511001	CMakeFiles/Herencia.dir/ReyDeLosPiratas.cpp.obj	a634b266181a12fd
+11	2055	7362041342520975	CMakeFiles/Herencia.dir/Pirata.cpp.obj	9bb2f07140c6760f
+1	2055	7362041342530947	CMakeFiles/Herencia.dir/main.cpp.obj	79896e0a95a0550e
+43	2056	7362041342540927	CMakeFiles/Herencia.dir/Protagonista.cpp.obj	da2fc28a3c2a43b2
+35	2059	7362041342540927	CMakeFiles/Herencia.dir/Yonkou.cpp.obj	122b65b01e19a5cb
+18	2062	7362041342591520	CMakeFiles/Herencia.dir/Persona.cpp.obj	1a01a6cb33aaa3a6
+2062	2288	7362041344325975	Herencia.exe	39d865197b01a571
